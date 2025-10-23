@@ -1,1 +1,20 @@
 
+{
+    "name": "DataForest Token List",
+    "timestamp": "2025-10-23T00:00:00Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 137,
+            "address": "0xbE19E6aC4f29d0b783064A3a6e0BCCc7e75FF321", // 실제 DNR 토큰 주소 넣기
+            "name": "DataForest Token",
+            "symbol": "DCT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/CHANI0019/dct-token/main/images/dct.png"
+        }
+    ]
+}
